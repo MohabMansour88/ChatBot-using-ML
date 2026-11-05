@@ -23,8 +23,7 @@ An intent-classification chatbot for ICT Hub, built with Python and developed in
 ICTHub-ChatBot-2026/
 ├── ICTHub_ChatBot2026.ipynb   # Data preparation, training, evaluation, and chatbot demo
 ├── icthub_dataset.xlsx        # Labeled training dataset
-├── requirements.txt            # Python dependencies
-└── README.md                   # Project documentation
+└── README.md                  # Project documentation
 ```
 ## Tech Stack
 - **Language:** Python

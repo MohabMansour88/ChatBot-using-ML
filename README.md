@@ -80,17 +80,6 @@ The chatbot uses `icthub_dataset.xlsx`, which contains two columns:
 Duplicate records are removed before training. The project currently supports 11 intent categories:
 | # | Intent Category |
 |---:|---|
-| 1 | _Category 1 — replace with the actual intent name_ |
-| 2 | _Category 2 — replace with the actual intent name_ |
-| 3 | _Category 3 — replace with the actual intent name_ |
-| 4 | _Category 4 — replace with the actual intent name_ |
-| 5 | _Category 5 — replace with the actual intent name_ |
-| 6 | _Category 6 — replace with the actual intent name_ |
-| 7 | _Category 7 — replace with the actual intent name_ |
-| 8 | _Category 8 — replace with the actual intent name_ |
-| 9 | _Category 9 — replace with the actual intent name_ |
-| 10 | _Category 10 — replace with the actual intent name_ |
-| 11 | _Category 11 — replace with the actual intent name_ |
 ## Machine-Learning Pipeline
 1. Load the Excel dataset and remove duplicates.
 2. Normalize text by lowercasing and cleaning punctuation and whitespace.
@@ -135,5 +124,3 @@ Contributions are welcome. To contribute:
 3. Make and test your changes.
 4. Open a pull request with a clear description of the improvement.
 Please keep dataset changes labeled consistently and document any changes to the preprocessing or model pipeline.
-## License
-This project is released under the [MIT License](LICENSE).
